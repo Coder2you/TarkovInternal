@@ -1,23 +1,23 @@
 Media: https://streamable.com/q0sejr
 
-Tarkov Internal Cheat
+# Tarkov Internal Cheat
 
 Features
 ----------
-Aimbot
-[+] Aimbot on key
-[+] Fov
-[+] TriggerBot
-Esp
-[+] Player ESP
-[+] Draw Squeletons
-[+] Draw Fov
-[+] Item ESP
-[+] Item Filter ESP
-Misc
-[+] Fast run
-[+] Fast reload
-[+] Unlock doors
+**Aimbot**
++ Aimbot on key
++ Fov
++ TriggerBot
+**Esp**
++ Player ESP
++ Draw Squeletons
++ Draw Fov
++ Item ESP
++ Item Filter ESP
+**Misc**
++ Fast run
++ Fast reload
++ Unlock doors
 
 Compiling
 ----------
